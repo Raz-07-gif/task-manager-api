@@ -26,7 +26,7 @@ A simple backend API built with Flask and SQLite for managing tasks using CRUD o
 ## 📁 Setup Instructions
 
 1. Clone this repo  
-   `git clone https://github.com/your-username/task-manager-api.git`
+   `git clone https://github.com/raz-07-gif/task-manager-api.git`
 
 2. Navigate into the folder  
    `cd task_manager`
